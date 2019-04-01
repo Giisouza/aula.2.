@@ -1,5 +1,12 @@
+#Isso é um comentário há!
+
+#ignorando arquivos por extensão
 *doc
 *docx
 *.zip
 
+#ignorando diretórios (ou pastas) por nome 
 testes/
+
+# Ignorando arquivos especificos 
+mundial_do_palmeiras.txt
